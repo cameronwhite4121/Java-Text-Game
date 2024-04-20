@@ -1,3 +1,5 @@
+package org.superdark.cam.games;
+
 import java.util.*;
 
 public class TextGame {

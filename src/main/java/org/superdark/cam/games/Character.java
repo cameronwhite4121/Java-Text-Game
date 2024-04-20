@@ -1,3 +1,5 @@
+package org.superdark.cam.games;
+
 public class Character {
     private int muscle; // attack value, adds to reputation
     private int stamina; // health, endurance
